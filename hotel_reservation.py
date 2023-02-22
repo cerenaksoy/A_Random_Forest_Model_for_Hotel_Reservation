@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Feb 22 21:16:23 2023
 
 @author: ceren
 """
