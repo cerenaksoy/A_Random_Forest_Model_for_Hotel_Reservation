@@ -1,7 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-
-@author: ceren
+@author: ceren aksoy
 """
 
 import pandas as pd
